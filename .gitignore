@@ -1,0 +1,8 @@
+doc/
+__pycache__/
+choc.sqlite
+
+*.csv
+.DS_Store
+secrets*
+cache*
